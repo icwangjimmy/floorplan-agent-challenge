@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+output/
+runs/
+*.log
+__pycache__/
+input/floorplan.*
